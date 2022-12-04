@@ -8,9 +8,9 @@
 * Women outnumber men when it comes to paying with cash or debit card, while men use ewallet slightly more.
 * Normal customers spend less with debit card.
 * The sales per branch (3 different stores) are almost evenly distributed.
-* February had fewer sales copared to January or March.
+* February had fewer sales compared to January or March.
 * Food and beverages was the category with the highest sales, followed by Sports and travel.
-* Electronic  accesories was the category with the most selling products, followed by Food and beverages.
+* Electronic accesories was the category with the most selling products, followed by Food and beverages.
 * Food and beverages category had the highest average rating, followed by Fashion accessories.
 * Naypyitaw was the city with the highest total sales.
 
