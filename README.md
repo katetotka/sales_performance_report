@@ -1,7 +1,7 @@
 # Supermarket Sales
 
 
-Τhe following report analyzes the sales data of a supermarket for the first 3 months of 2019. The report was made by using Microsoft Power BI. By observing the report, we can come up to the following conclusions:
+Τhe following report analyzes the sales data of a supermarket for the first 3 months of 2019 (!(https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)link). The report was made by using Microsoft Power BI. By observing the report, we can come up to the following conclusions:
 
 * The total sales, from January 2019 to March 2019, amount to almost 322.970 US dollars.
 * The total purchased items are 5510.
